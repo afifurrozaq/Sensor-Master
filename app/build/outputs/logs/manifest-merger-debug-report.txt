@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:design:22.2.0] /home/afifur/.android/build-cache/88526aa098c80b07062a35a2804da3b1aa680107/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/afifur/.android/build-cache/ce88206405b534bba6c32e147e8c20a9e6653d00/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /home/afifur/.android/build-cache/6fd970c80b63ff11e4d7ffe10aa10087ec87be0b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/afifur/.android/build-cache/f1e4d188fa0d6e227c4b17c3916c18eac79a6d0b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.afifur.sensorsample.CompassActivity
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:12:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.afifur.sensorsample.Proximity
+ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml:19:19-44
+uses-sdk
+INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.0] /home/afifur/.android/build-cache/88526aa098c80b07062a35a2804da3b1aa680107/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/afifur/.android/build-cache/ce88206405b534bba6c32e147e8c20a9e6653d00/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /home/afifur/.android/build-cache/6fd970c80b63ff11e4d7ffe10aa10087ec87be0b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/afifur/.android/build-cache/f1e4d188fa0d6e227c4b17c3916c18eac79a6d0b/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/afifur/AndroidStudioProjects/SensorSample/app/src/main/AndroidManifest.xml

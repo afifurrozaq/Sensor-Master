@@ -1,0 +1,7 @@
+#Mon Mar 27 09:12:33 WIB 2017
+base.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de4b3c76068d5f21419222126d3bdbe19aa5db68
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18565857a14dceeedc67179489ca038e7fecc624/classes.dex
+base.1=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18565857a14dceeedc67179489ca038e7fecc624
+file.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de4b3c76068d5f21419222126d3bdbe19aa5db68/classes.dex

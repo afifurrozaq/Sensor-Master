@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_18565857a14dceeedc67179489ca038e7fecc624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/ce88206405b534bba6c32e147e8c20a9e6653d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1d727da56c6ff45d1888f07bb2e06a0459f07c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7d0d06d3cf352aad830229c80fb51aaaddbf8842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/88526aa098c80b07062a35a2804da3b1aa680107/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_924e517ddcd3e05ca8271ab6f5cd994523c11745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1f40eace894cff5cca0258cd62be8a3ed0e914a">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de4b3c76068d5f21419222126d3bdbe19aa5db68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/6fd970c80b63ff11e4d7ffe10aa10087ec87be0b/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_7b83656a945a63766613f64ba0bb95b3cde03dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/6fd970c80b63ff11e4d7ffe10aa10087ec87be0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b99117c8cfa06b6b9916f46786936dbb892c99a/classes.dex" />
+    </item>
+
+</items>

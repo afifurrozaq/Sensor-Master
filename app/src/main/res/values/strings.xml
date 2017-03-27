@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorSample</string>
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+</resources>

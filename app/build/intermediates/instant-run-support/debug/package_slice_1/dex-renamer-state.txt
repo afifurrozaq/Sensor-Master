@@ -1,0 +1,4 @@
+#Mon Mar 27 08:55:57 WIB 2017
+base.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

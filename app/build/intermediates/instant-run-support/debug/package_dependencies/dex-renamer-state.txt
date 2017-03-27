@@ -1,0 +1,22 @@
+#Mon Mar 27 08:55:56 WIB 2017
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes.dex
+renamed.3=classes6.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.6=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18fa9c0a5f0f068c1362105ae277ec29c2490fe3
+base.5=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b99117c8cfa06b6b9916f46786936dbb892c99a
+base.4=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_924e517ddcd3e05ca8271ab6f5cd994523c11745
+base.3=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1d727da56c6ff45d1888f07bb2e06a0459f07c9
+base.2=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_4c4fda52001d072a203de2971451f8f0f3c0686e
+base.1=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_7b83656a945a63766613f64ba0bb95b3cde03dae
+base.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7d0d06d3cf352aad830229c80fb51aaaddbf8842
+file.6=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18fa9c0a5f0f068c1362105ae277ec29c2490fe3/classes.dex
+file.5=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b99117c8cfa06b6b9916f46786936dbb892c99a/classes.dex
+file.4=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_924e517ddcd3e05ca8271ab6f5cd994523c11745/classes.dex
+file.3=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1d727da56c6ff45d1888f07bb2e06a0459f07c9/classes.dex
+file.2=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_4c4fda52001d072a203de2971451f8f0f3c0686e/classes.dex
+file.1=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_7b83656a945a63766613f64ba0bb95b3cde03dae/classes.dex
+file.0=/home/afifur/AndroidStudioProjects/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7d0d06d3cf352aad830229c80fb51aaaddbf8842/classes.dex
