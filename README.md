@@ -10,7 +10,7 @@ How To Build Compass
 
 ## Install at local
 Open Gradel App, project:  
-> android {
+``` android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
@@ -39,7 +39,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.1'
     testCompile 'junit:junit:4.12'
 }
-
+```
  
 
 ## License
