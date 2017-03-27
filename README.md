@@ -2,7 +2,7 @@
 How To Build Compass
 
 # andorid-studio-sensor
-[![Screenshot](https://raw.githubusercontent.com/afifurrozaq/Sensor-Master/master/demo/demo.mp4)]  
+![Screenshot](https://youtu.be/TZL4XpbtBLo)
 
 ## Todo
 - [x] Sensor Proximity
