@@ -1,9 +1,6 @@
 # Sensor-Master
 How To Build Compass
 
-# andorid-studio-sensor
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TZL4XpbtBLo" frameborder="0" allowfullscreen></iframe>
-
 ## Todo
 - [x] Sensor Proximity
 - [x] Sensor Compass Combination TYPE_ACCELEROMETER,TYPE_MAGNETIC_FIELD
